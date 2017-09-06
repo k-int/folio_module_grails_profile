@@ -18,7 +18,7 @@ grailsPublish {
     // TODO: Provide values here
     user = 'user'
     key = 'key'
-    githubSlug = 'foo/bar'
+    githubSlug = 'k-int/folio_module_grails_profile'
     license {
         name = 'Apache-2.0'
     }
