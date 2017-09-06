@@ -23,6 +23,11 @@ This structure is taken from https://github.com/k-int/folio-grails-module-demo. 
 
 Under the folio directory.
 
+This profile can be installed using "gradle install", after which the full id can be used to create an app. For example, to create the vendor packaging kb module I used this command::
+
+    grails create-app vendor-packaging-kb --profile=com.k-int.grails.profiles:folio-service-module:1.0.0
+
+
 
 # Background
 
